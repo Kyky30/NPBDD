@@ -1,0 +1,1 @@
+export { default } from "/Users/kylian/Documents/Cours/BDD/TP2_BDD/node_modules/.pnpm/@nuxt+image@1.10.0_db0@0.3.1_ioredis@5.6.0_magicast@0.3.5/node_modules/@nuxt/image/dist/runtime/components/NuxtImg.vue"

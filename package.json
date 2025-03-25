@@ -1,0 +1,13 @@
+{
+    "name": "tp2-bdd",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "pnpm -r dev",
+      "build": "pnpm -r build",
+      "start": "pnpm -r start",
+      "clean": "pnpm -r clean",
+      "lint": "pnpm -r lint",
+      "test": "pnpm -r test"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Users/kylian/Documents/Cours/BDD/TP2_BDD/node_modules/.pnpm/nuxt@3.16.1_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.0_lightningcss@1.29.2_magicast@_0a5cd05ecc2a44b2a0cb79f1671fa147/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/Users/kylian/Documents/Cours/BDD/TP2_BDD/node_modules/.pnpm/nuxt@3.16.1_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.0_lightningcss@1.29.2_magicast@_0a5cd05ecc2a44b2a0cb79f1671fa147/node_modules/nuxt/dist/app/entry.js"
+  }
+}

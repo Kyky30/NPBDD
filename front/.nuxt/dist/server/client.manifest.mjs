@@ -1,0 +1,1 @@
+export { default } from "file:///Users/kylian/Documents/Cours/BDD/TP2_BDD/node_modules/.pnpm/@nuxt+vite-builder@3.16.1_lightningcss@1.29.2_magicast@0.3.5_rollup@4.37.0_terser@5.39._b155b421275268fe2680a3405e1e82c5/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

@@ -1,0 +1,246 @@
+[
+      {
+        "titre": "Développer la page d'accueil",
+        "description": "Créer une interface utilisateur responsive pour la page d'accueil du site",
+        "statut": "en cours",
+        "priorite": "haute",
+        "categorie": "développement",
+        "echeance": "2024-04-01",
+        "sousTaches": [
+          {
+            "titre": "Maquetter l'interface",
+            "statut": "terminée",
+            "echeance": "2024-03-25"
+          },
+          {
+            "titre": "Intégrer le design",
+            "statut": "en cours", 
+            "echeance": "2024-03-28"
+          }
+        ],
+        "commentaires": [
+          {
+            "texte": "Design validé par le client",
+            "auteur": "Sophie",
+            "date": "2024-03-20"
+          }
+        ]
+      },
+      {
+        "titre": "Optimiser la base de données",
+        "description": "Améliorer les performances des requêtes et optimiser les index",
+        "statut": "à faire",
+        "priorite": "moyenne",
+        "categorie": "base de données",
+        "echeance": "2024-04-15",
+        "sousTaches": [
+          {
+            "titre": "Analyser les requêtes lentes",
+            "statut": "à faire",
+            "echeance": "2024-04-10"
+          }
+        ],
+        "commentaires": []
+      },
+      {
+        "titre": "Tester les fonctionnalités",
+        "description": "Effectuer des tests unitaires et d'intégration",
+        "statut": "à faire",
+        "priorite": "haute", 
+        "categorie": "tests",
+        "echeance": "2024-04-20",
+        "sousTaches": [],
+        "commentaires": []
+      },
+      {
+        "titre": "Rédiger la documentation",
+        "description": "Documenter l'API et les procédures de déploiement",
+        "statut": "à faire",
+        "priorite": "basse",
+        "categorie": "documentation",
+        "echeance": "2024-04-30",
+        "sousTaches": [
+          {
+            "titre": "Documenter l'API REST",
+            "statut": "à faire",
+            "echeance": "2024-04-25"
+          }
+        ],
+        "commentaires": []
+      },
+      {
+        "titre": "Déployer en production",
+        "description": "Préparer et effectuer le déploiement en production",
+        "statut": "à faire", 
+        "priorite": "haute",
+        "categorie": "déploiement",
+        "echeance": "2024-05-01",
+        "sousTaches": [],
+        "commentaires": []
+      },
+      {
+        "titre": "Réunion client hebdomadaire",
+        "description": "Présenter l'avancement du projet et recueillir les retours",
+        "statut": "à faire",
+        "priorite": "moyenne",
+        "categorie": "réunion",
+        "echeance": "2024-03-28",
+        "sousTaches": [],
+        "commentaires": [
+          {
+            "texte": "Préparer le support de présentation",
+            "auteur": "Pierre",
+            "date": "2024-03-25"
+          }
+        ]
+      },
+      {
+        "titre": "Mise à jour des dépendances",
+        "description": "Mettre à jour toutes les bibliothèques du projet vers les dernières versions stables",
+        "statut": "en cours",
+        "priorite": "basse",
+        "categorie": "maintenance",
+        "echeance": "2024-04-05",
+        "sousTaches": [],
+        "commentaires": []
+      },
+      {
+        "titre": "Corriger les bugs signalés",
+        "description": "Résoudre les problèmes reportés dans le système de suivi de bugs",
+        "statut": "en cours",
+        "priorite": "haute",
+        "categorie": "correction",
+        "echeance": "2024-03-30",
+        "sousTaches": [
+          {
+            "titre": "Corriger le bug d'authentification",
+            "statut": "terminée",
+            "echeance": "2024-03-25"
+          },
+          {
+            "titre": "Résoudre le problème de cache",
+            "statut": "en cours",
+            "echeance": "2024-03-28"
+          }
+        ],
+        "commentaires": []
+      },
+      {
+        "titre": "Améliorer l'interface mobile",
+        "description": "Optimiser l'expérience utilisateur sur les appareils mobiles",
+        "statut": "à faire",
+        "priorite": "moyenne",
+        "categorie": "design",
+        "echeance": "2024-04-10",
+        "sousTaches": [],
+        "commentaires": []
+      },
+      {
+        "titre": "Formation équipe",
+        "description": "Former l'équipe aux nouvelles technologies utilisées",
+        "statut": "à faire",
+        "priorite": "moyenne",
+        "categorie": "formation",
+        "echeance": "2024-04-25",
+        "sousTaches": [
+          {
+            "titre": "Préparer les supports de formation",
+            "statut": "à faire",
+            "echeance": "2024-04-20"
+          },
+          {
+            "titre": "Organiser les sessions",
+            "statut": "à faire",
+            "echeance": "2024-04-22"
+          }
+        ],
+        "commentaires": [
+          {
+            "texte": "Prévoir une salle pour 10 personnes",
+            "auteur": "Marie",
+            "date": "2024-04-15"
+          }
+        ]
+      },
+      {
+        "titre": "Optimiser les requêtes SQL",
+        "description": "Améliorer les performances des requêtes SQL complexes",
+        "statut": "à faire",
+        "priorite": "haute",
+        "categorie": "base de données",
+        "echeance": "2024-04-18",
+        "sousTaches": [
+          {
+            "titre": "Identifier les requêtes problématiques",
+            "statut": "à faire",
+            "echeance": "2024-04-16"
+          }
+        ],
+        "commentaires": [
+          {
+            "texte": "Priorité sur les requêtes de reporting",
+            "auteur": "Thomas",
+            "date": "2024-04-01"
+          }
+        ]
+      },
+      {
+        "titre": "Tests de performance",
+        "description": "Réaliser des tests de charge et de performance",
+        "statut": "à faire",
+        "priorite": "moyenne",
+        "categorie": "tests",
+        "echeance": "2024-04-25",
+        "sousTaches": [
+          {
+            "titre": "Préparer les scénarios de test",
+            "statut": "à faire",
+            "echeance": "2024-04-22"
+          }
+        ],
+        "commentaires": []
+      },
+      {
+        "titre": "Refonte page de profil",
+        "description": "Moderniser l'interface de la page de profil utilisateur",
+        "statut": "en cours",
+        "priorite": "moyenne",
+        "categorie": "développement",
+        "echeance": "2024-04-12",
+        "sousTaches": [
+          {
+            "titre": "Créer les nouvelles maquettes",
+            "statut": "terminée",
+            "echeance": "2024-04-05"
+          },
+          {
+            "titre": "Développer les nouveaux composants",
+            "statut": "en cours",
+            "echeance": "2024-04-10"
+          }
+        ],
+        "commentaires": []
+      },
+      {
+        "titre": "Guide de maintenance",
+        "description": "Rédiger le guide de maintenance de l'application",
+        "statut": "à faire",
+        "priorite": "basse",
+        "categorie": "documentation",
+        "echeance": "2024-05-05",
+        "sousTaches": [
+          {
+            "titre": "Documenter les procédures de backup",
+            "statut": "à faire",
+            "echeance": "2024-05-02"
+          }
+        ],
+        "commentaires": [
+          {
+            "texte": "Inclure les procédures de récupération",
+            "auteur": "Julie",
+            "date": "2024-04-01"
+          }
+        ]
+      }
+    ]
